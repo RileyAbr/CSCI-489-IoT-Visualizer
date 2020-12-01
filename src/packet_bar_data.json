@@ -1,0 +1,1894 @@
+[
+    {
+        "mac_address": "00:00:00:00:01:00",
+        "count": 30
+    },
+    {
+        "mac_address": "00:00:00:00:05:00",
+        "count": 11
+    },
+    {
+        "mac_address": "00:00:00:00:06:00",
+        "count": 22
+    },
+    {
+        "mac_address": "00:00:00:00:09:00",
+        "count": 10
+    },
+    {
+        "mac_address": "00:00:00:00:0b:00",
+        "count": 41
+    },
+    {
+        "mac_address": "00:00:b8:3a:5a:4a",
+        "count": 8
+    },
+    {
+        "mac_address": "00:00:c3:00:01:00",
+        "count": 6
+    },
+    {
+        "mac_address": "00:00:e2:00:01:00",
+        "count": 17
+    },
+    {
+        "mac_address": "00:00:e2:00:0b:00",
+        "count": 14
+    },
+    {
+        "mac_address": "00:09:62:09:78:77",
+        "count": 10
+    },
+    {
+        "mac_address": "00:0e:c3:00:01:00",
+        "count": 18
+    },
+    {
+        "mac_address": "00:0e:c3:00:09:00",
+        "count": 15
+    },
+    {
+        "mac_address": "00:0f:c3:00:01:00",
+        "count": 19
+    },
+    {
+        "mac_address": "00:0f:c3:00:09:00",
+        "count": 6
+    },
+    {
+        "mac_address": "00:1f:00:01:0b:00",
+        "count": 17
+    },
+    {
+        "mac_address": "00:21:29:c1:b4:09",
+        "count": 13
+    },
+    {
+        "mac_address": "00:47:40:00:0b:00",
+        "count": 6
+    },
+    {
+        "mac_address": "00:47:41:00:0b:00",
+        "count": 7
+    },
+    {
+        "mac_address": "00:4e:00:00:0b:00",
+        "count": 16
+    },
+    {
+        "mac_address": "00:4e:c3:00:01:00",
+        "count": 6
+    },
+    {
+        "mac_address": "00:4e:c3:00:0b:00",
+        "count": 14
+    },
+    {
+        "mac_address": "00:4f:00:00:01:00",
+        "count": 7
+    },
+    {
+        "mac_address": "00:4f:00:00:0b:00",
+        "count": 20
+    },
+    {
+        "mac_address": "00:4f:c3:00:01:00",
+        "count": 25
+    },
+    {
+        "mac_address": "00:4f:c3:00:06:00",
+        "count": 15
+    },
+    {
+        "mac_address": "00:4f:c3:00:0b:00",
+        "count": 43
+    },
+    {
+        "mac_address": "00:5f:00:00:01:00",
+        "count": 6
+    },
+    {
+        "mac_address": "00:5f:00:00:0b:00",
+        "count": 25
+    },
+    {
+        "mac_address": "00:8e:c3:00:01:00",
+        "count": 18
+    },
+    {
+        "mac_address": "00:8e:c3:00:09:00",
+        "count": 14
+    },
+    {
+        "mac_address": "00:8f:c3:00:01:00",
+        "count": 15
+    },
+    {
+        "mac_address": "00:8f:c3:00:09:00",
+        "count": 9
+    },
+    {
+        "mac_address": "00:9d:6b:da:fa:85",
+        "count": 6
+    },
+    {
+        "mac_address": "00:9d:6b:f9:bb:f4",
+        "count": 27
+    },
+    {
+        "mac_address": "00:9f:00:01:0b:00",
+        "count": 7
+    },
+    {
+        "mac_address": "00:c6:41:00:0b:00",
+        "count": 6
+    },
+    {
+        "mac_address": "00:c7:40:00:0b:00",
+        "count": 7
+    },
+    {
+        "mac_address": "00:ce:00:00:0b:00",
+        "count": 17
+    },
+    {
+        "mac_address": "00:ce:c3:00:01:00",
+        "count": 8
+    },
+    {
+        "mac_address": "00:cf:00:00:01:00",
+        "count": 10
+    },
+    {
+        "mac_address": "00:cf:00:00:06:00",
+        "count": 8
+    },
+    {
+        "mac_address": "00:cf:00:00:0b:00",
+        "count": 23
+    },
+    {
+        "mac_address": "00:cf:c3:00:01:00",
+        "count": 31
+    },
+    {
+        "mac_address": "00:cf:c3:00:05:00",
+        "count": 11
+    },
+    {
+        "mac_address": "00:cf:c3:00:06:00",
+        "count": 15
+    },
+    {
+        "mac_address": "00:cf:c3:00:0b:00",
+        "count": 40
+    },
+    {
+        "mac_address": "00:df:00:00:01:00",
+        "count": 8
+    },
+    {
+        "mac_address": "00:df:00:00:0b:00",
+        "count": 6
+    },
+    {
+        "mac_address": "01:0e:c3:00:01:00",
+        "count": 19
+    },
+    {
+        "mac_address": "01:0e:c3:00:09:00",
+        "count": 12
+    },
+    {
+        "mac_address": "01:0f:c3:00:01:00",
+        "count": 12
+    },
+    {
+        "mac_address": "01:1f:00:02:0b:00",
+        "count": 8
+    },
+    {
+        "mac_address": "01:4e:00:00:0b:00",
+        "count": 8
+    },
+    {
+        "mac_address": "01:4e:c3:00:01:00",
+        "count": 6
+    },
+    {
+        "mac_address": "01:4e:c3:00:0b:00",
+        "count": 23
+    },
+    {
+        "mac_address": "01:4f:00:00:01:00",
+        "count": 7
+    },
+    {
+        "mac_address": "01:4f:00:00:0b:00",
+        "count": 12
+    },
+    {
+        "mac_address": "01:4f:c3:00:01:00",
+        "count": 17
+    },
+    {
+        "mac_address": "01:4f:c3:00:06:00",
+        "count": 10
+    },
+    {
+        "mac_address": "01:4f:c3:00:0b:00",
+        "count": 28
+    },
+    {
+        "mac_address": "01:5f:00:00:0b:00",
+        "count": 8
+    },
+    {
+        "mac_address": "01:8e:c3:00:01:00",
+        "count": 20
+    },
+    {
+        "mac_address": "01:8e:c3:00:09:00",
+        "count": 7
+    },
+    {
+        "mac_address": "01:8f:c3:00:01:00",
+        "count": 19
+    },
+    {
+        "mac_address": "01:8f:c3:00:09:00",
+        "count": 6
+    },
+    {
+        "mac_address": "01:ce:00:00:0b:00",
+        "count": 6
+    },
+    {
+        "mac_address": "01:ce:c3:00:01:00",
+        "count": 8
+    },
+    {
+        "mac_address": "01:cf:00:00:01:00",
+        "count": 6
+    },
+    {
+        "mac_address": "01:cf:00:00:0b:00",
+        "count": 14
+    },
+    {
+        "mac_address": "01:cf:c3:00:01:00",
+        "count": 16
+    },
+    {
+        "mac_address": "01:cf:c3:00:05:00",
+        "count": 12
+    },
+    {
+        "mac_address": "01:cf:c3:00:06:00",
+        "count": 10
+    },
+    {
+        "mac_address": "01:cf:c3:00:0b:00",
+        "count": 53
+    },
+    {
+        "mac_address": "02:00:00:00:00:00",
+        "count": 9
+    },
+    {
+        "mac_address": "02:0e:c3:00:01:00",
+        "count": 16
+    },
+    {
+        "mac_address": "02:0e:c3:00:09:00",
+        "count": 11
+    },
+    {
+        "mac_address": "02:0f:c3:00:01:00",
+        "count": 10
+    },
+    {
+        "mac_address": "02:10:f3:69:e6:cb",
+        "count": 26
+    },
+    {
+        "mac_address": "02:4e:00:00:0b:00",
+        "count": 8
+    },
+    {
+        "mac_address": "02:4e:c3:00:01:00",
+        "count": 10
+    },
+    {
+        "mac_address": "02:4e:c3:00:0b:00",
+        "count": 18
+    },
+    {
+        "mac_address": "02:4f:00:00:0b:00",
+        "count": 11
+    },
+    {
+        "mac_address": "02:4f:c3:00:01:00",
+        "count": 14
+    },
+    {
+        "mac_address": "02:4f:c3:00:06:00",
+        "count": 7
+    },
+    {
+        "mac_address": "02:4f:c3:00:0b:00",
+        "count": 23
+    },
+    {
+        "mac_address": "02:5f:00:00:0b:00",
+        "count": 20
+    },
+    {
+        "mac_address": "02:8e:c3:00:01:00",
+        "count": 19
+    },
+    {
+        "mac_address": "02:8f:c3:00:01:00",
+        "count": 12
+    },
+    {
+        "mac_address": "02:ce:c3:00:01:00",
+        "count": 9
+    },
+    {
+        "mac_address": "02:ce:c3:00:0b:00",
+        "count": 12
+    },
+    {
+        "mac_address": "02:cf:00:00:0b:00",
+        "count": 11
+    },
+    {
+        "mac_address": "02:cf:c3:00:01:00",
+        "count": 8
+    },
+    {
+        "mac_address": "02:cf:c3:00:05:00",
+        "count": 8
+    },
+    {
+        "mac_address": "02:cf:c3:00:06:00",
+        "count": 8
+    },
+    {
+        "mac_address": "02:cf:c3:00:0b:00",
+        "count": 39
+    },
+    {
+        "mac_address": "02:df:00:00:01:00",
+        "count": 6
+    },
+    {
+        "mac_address": "03:0f:c3:00:01:00",
+        "count": 7
+    },
+    {
+        "mac_address": "03:4e:00:00:0b:00",
+        "count": 8
+    },
+    {
+        "mac_address": "03:4e:c3:00:01:00",
+        "count": 11
+    },
+    {
+        "mac_address": "03:4e:c3:00:0b:00",
+        "count": 13
+    },
+    {
+        "mac_address": "03:4f:00:00:0b:00",
+        "count": 6
+    },
+    {
+        "mac_address": "03:4f:c3:00:01:00",
+        "count": 7
+    },
+    {
+        "mac_address": "03:4f:c3:00:0b:00",
+        "count": 16
+    },
+    {
+        "mac_address": "03:8e:c3:00:01:00",
+        "count": 9
+    },
+    {
+        "mac_address": "03:8f:c3:00:01:00",
+        "count": 12
+    },
+    {
+        "mac_address": "03:ce:c3:00:01:00",
+        "count": 9
+    },
+    {
+        "mac_address": "03:ce:c3:00:0b:00",
+        "count": 24
+    },
+    {
+        "mac_address": "03:cf:00:00:0b:00",
+        "count": 10
+    },
+    {
+        "mac_address": "03:cf:c3:00:01:00",
+        "count": 9
+    },
+    {
+        "mac_address": "03:cf:c3:00:05:00",
+        "count": 6
+    },
+    {
+        "mac_address": "03:cf:c3:00:06:00",
+        "count": 6
+    },
+    {
+        "mac_address": "03:cf:c3:00:0b:00",
+        "count": 32
+    },
+    {
+        "mac_address": "04:4e:c3:00:0b:00",
+        "count": 7
+    },
+    {
+        "mac_address": "04:4f:00:00:0b:00",
+        "count": 6
+    },
+    {
+        "mac_address": "04:4f:c3:00:01:00",
+        "count": 6
+    },
+    {
+        "mac_address": "04:4f:c3:00:0b:00",
+        "count": 17
+    },
+    {
+        "mac_address": "04:5f:00:00:0b:00",
+        "count": 6
+    },
+    {
+        "mac_address": "04:8f:c3:00:01:00",
+        "count": 7
+    },
+    {
+        "mac_address": "04:95:e6:8e:fa:d1",
+        "count": 27
+    },
+    {
+        "mac_address": "04:ce:c3:00:0b:00",
+        "count": 14
+    },
+    {
+        "mac_address": "04:cf:00:00:0b:00",
+        "count": 9
+    },
+    {
+        "mac_address": "04:cf:c3:00:06:00",
+        "count": 6
+    },
+    {
+        "mac_address": "04:cf:c3:00:0b:00",
+        "count": 25
+    },
+    {
+        "mac_address": "05:0e:c3:00:01:00",
+        "count": 9
+    },
+    {
+        "mac_address": "05:46:41:00:0b:00",
+        "count": 7
+    },
+    {
+        "mac_address": "05:4e:c3:00:01:00",
+        "count": 7
+    },
+    {
+        "mac_address": "05:4f:c3:00:01:00",
+        "count": 11
+    },
+    {
+        "mac_address": "05:4f:c3:00:0b:00",
+        "count": 11
+    },
+    {
+        "mac_address": "05:8e:c3:00:01:00",
+        "count": 11
+    },
+    {
+        "mac_address": "05:8e:c3:00:09:00",
+        "count": 6
+    },
+    {
+        "mac_address": "05:8f:c3:00:01:00",
+        "count": 10
+    },
+    {
+        "mac_address": "05:ce:c3:00:0b:00",
+        "count": 10
+    },
+    {
+        "mac_address": "05:cf:00:00:0b:00",
+        "count": 7
+    },
+    {
+        "mac_address": "05:cf:c3:00:01:00",
+        "count": 10
+    },
+    {
+        "mac_address": "05:cf:c3:00:05:00",
+        "count": 7
+    },
+    {
+        "mac_address": "05:cf:c3:00:06:00",
+        "count": 6
+    },
+    {
+        "mac_address": "05:cf:c3:00:0b:00",
+        "count": 21
+    },
+    {
+        "mac_address": "06:0e:c3:00:01:00",
+        "count": 13
+    },
+    {
+        "mac_address": "06:0e:c3:00:09:00",
+        "count": 10
+    },
+    {
+        "mac_address": "06:4e:c3:00:01:00",
+        "count": 11
+    },
+    {
+        "mac_address": "06:4f:c3:00:01:00",
+        "count": 7
+    },
+    {
+        "mac_address": "06:4f:c3:00:0b:00",
+        "count": 13
+    },
+    {
+        "mac_address": "06:5f:00:00:0b:00",
+        "count": 22
+    },
+    {
+        "mac_address": "06:8e:c3:00:01:00",
+        "count": 16
+    },
+    {
+        "mac_address": "06:8f:c3:00:01:00",
+        "count": 10
+    },
+    {
+        "mac_address": "06:ce:c3:00:01:00",
+        "count": 9
+    },
+    {
+        "mac_address": "06:ce:c3:00:0b:00",
+        "count": 9
+    },
+    {
+        "mac_address": "06:cf:c3:00:05:00",
+        "count": 7
+    },
+    {
+        "mac_address": "06:cf:c3:00:0b:00",
+        "count": 19
+    },
+    {
+        "mac_address": "07:4e:c3:00:01:00",
+        "count": 6
+    },
+    {
+        "mac_address": "07:4f:c3:00:01:00",
+        "count": 6
+    },
+    {
+        "mac_address": "07:4f:c3:00:0b:00",
+        "count": 9
+    },
+    {
+        "mac_address": "07:5f:00:00:0b:00",
+        "count": 21
+    },
+    {
+        "mac_address": "07:ce:c3:00:01:00",
+        "count": 9
+    },
+    {
+        "mac_address": "07:ce:c3:00:0b:00",
+        "count": 6
+    },
+    {
+        "mac_address": "07:cf:c3:00:01:00",
+        "count": 6
+    },
+    {
+        "mac_address": "07:cf:c3:00:0b:00",
+        "count": 13
+    },
+    {
+        "mac_address": "08:4e:c3:00:01:00",
+        "count": 7
+    },
+    {
+        "mac_address": "08:4f:c3:00:01:00",
+        "count": 8
+    },
+    {
+        "mac_address": "08:4f:c3:00:0b:00",
+        "count": 8
+    },
+    {
+        "mac_address": "08:5f:00:00:0b:00",
+        "count": 24
+    },
+    {
+        "mac_address": "08:ce:c3:00:01:00",
+        "count": 6
+    },
+    {
+        "mac_address": "08:cf:00:00:0b:00",
+        "count": 6
+    },
+    {
+        "mac_address": "08:cf:c3:00:01:00",
+        "count": 6
+    },
+    {
+        "mac_address": "08:cf:c3:00:0b:00",
+        "count": 17
+    },
+    {
+        "mac_address": "09:4e:c3:00:01:00",
+        "count": 7
+    },
+    {
+        "mac_address": "09:4f:c3:00:01:00",
+        "count": 9
+    },
+    {
+        "mac_address": "09:4f:c3:00:0b:00",
+        "count": 6
+    },
+    {
+        "mac_address": "09:5f:00:00:0b:00",
+        "count": 22
+    },
+    {
+        "mac_address": "09:ce:c3:00:01:00",
+        "count": 8
+    },
+    {
+        "mac_address": "09:cf:c3:00:0b:00",
+        "count": 7
+    },
+    {
+        "mac_address": "0a:0e:c3:00:01:00",
+        "count": 7
+    },
+    {
+        "mac_address": "0a:4e:c3:00:01:00",
+        "count": 6
+    },
+    {
+        "mac_address": "0a:4f:c3:00:01:00",
+        "count": 7
+    },
+    {
+        "mac_address": "0a:4f:c3:00:0b:00",
+        "count": 10
+    },
+    {
+        "mac_address": "0a:5f:00:00:0b:00",
+        "count": 22
+    },
+    {
+        "mac_address": "0a:ce:c3:00:01:00",
+        "count": 7
+    },
+    {
+        "mac_address": "0a:cf:c3:00:01:00",
+        "count": 7
+    },
+    {
+        "mac_address": "0a:cf:c3:00:0b:00",
+        "count": 11
+    },
+    {
+        "mac_address": "0b:0e:c3:00:01:00",
+        "count": 7
+    },
+    {
+        "mac_address": "0b:0e:c3:00:09:00",
+        "count": 6
+    },
+    {
+        "mac_address": "0b:4e:c3:00:01:00",
+        "count": 6
+    },
+    {
+        "mac_address": "0b:4f:c3:00:01:00",
+        "count": 14
+    },
+    {
+        "mac_address": "0b:4f:c3:00:0b:00",
+        "count": 18
+    },
+    {
+        "mac_address": "0b:5f:00:01:0b:00",
+        "count": 20
+    },
+    {
+        "mac_address": "0b:8e:c3:00:01:00",
+        "count": 7
+    },
+    {
+        "mac_address": "0b:8f:c3:00:01:00",
+        "count": 6
+    },
+    {
+        "mac_address": "0b:cf:00:00:0b:00",
+        "count": 6
+    },
+    {
+        "mac_address": "0b:cf:c3:00:01:00",
+        "count": 11
+    },
+    {
+        "mac_address": "0b:cf:c3:00:0b:00",
+        "count": 18
+    },
+    {
+        "mac_address": "0c:0e:c3:00:01:00",
+        "count": 12
+    },
+    {
+        "mac_address": "0c:0e:c3:00:09:00",
+        "count": 8
+    },
+    {
+        "mac_address": "0c:51:01:84:82:f2",
+        "count": 12
+    },
+    {
+        "mac_address": "0c:5f:00:00:0b:00",
+        "count": 26
+    },
+    {
+        "mac_address": "0c:62:a6:47:e5:4e",
+        "count": 8
+    },
+    {
+        "mac_address": "0c:62:a6:77:6d:09",
+        "count": 6
+    },
+    {
+        "mac_address": "0c:8e:c3:00:01:00",
+        "count": 14
+    },
+    {
+        "mac_address": "0c:8e:c3:00:09:00",
+        "count": 6
+    },
+    {
+        "mac_address": "0c:ce:c3:00:01:00",
+        "count": 6
+    },
+    {
+        "mac_address": "0c:cf:c3:00:01:00",
+        "count": 6
+    },
+    {
+        "mac_address": "0c:cf:c3:00:0b:00",
+        "count": 10
+    },
+    {
+        "mac_address": "0d:4f:c3:00:01:00",
+        "count": 7
+    },
+    {
+        "mac_address": "0d:cf:c3:00:01:00",
+        "count": 6
+    },
+    {
+        "mac_address": "0e:20:15:45:41:db",
+        "count": 12
+    },
+    {
+        "mac_address": "0e:4f:c3:00:01:00",
+        "count": 9
+    },
+    {
+        "mac_address": "0e:cf:c3:00:01:00",
+        "count": 9
+    },
+    {
+        "mac_address": "0f:4f:c3:00:01:00",
+        "count": 8
+    },
+    {
+        "mac_address": "0f:cf:c3:00:01:00",
+        "count": 8
+    },
+    {
+        "mac_address": "10:94:bb:cc:fa:48",
+        "count": 9
+    },
+    {
+        "mac_address": "10:cf:c3:00:01:00",
+        "count": 8
+    },
+    {
+        "mac_address": "10:cf:c3:00:0b:00",
+        "count": 6
+    },
+    {
+        "mac_address": "10:f1:f2:81:a1:ed",
+        "count": 15
+    },
+    {
+        "mac_address": "11:4f:c3:00:01:00",
+        "count": 9
+    },
+    {
+        "mac_address": "11:8e:c3:00:01:00",
+        "count": 7
+    },
+    {
+        "mac_address": "11:8f:c3:00:01:00",
+        "count": 7
+    },
+    {
+        "mac_address": "11:cf:c3:00:01:00",
+        "count": 9
+    },
+    {
+        "mac_address": "11:cf:c3:00:0b:00",
+        "count": 16
+    },
+    {
+        "mac_address": "12:0e:c3:00:01:00",
+        "count": 6
+    },
+    {
+        "mac_address": "12:0e:c3:00:09:00",
+        "count": 7
+    },
+    {
+        "mac_address": "12:3d:0a:19:05:f8",
+        "count": 8
+    },
+    {
+        "mac_address": "12:8e:c3:00:01:00",
+        "count": 14
+    },
+    {
+        "mac_address": "13:4f:c3:00:01:00",
+        "count": 10
+    },
+    {
+        "mac_address": "13:cf:c3:00:01:00",
+        "count": 7
+    },
+    {
+        "mac_address": "14:4f:c3:00:01:00",
+        "count": 7
+    },
+    {
+        "mac_address": "14:59:c0:ad:32:49",
+        "count": 9
+    },
+    {
+        "mac_address": "14:f6:d8:67:6a:56",
+        "count": 10
+    },
+    {
+        "mac_address": "16:4f:c3:00:01:00",
+        "count": 6
+    },
+    {
+        "mac_address": "17:4f:c3:00:01:00",
+        "count": 12
+    },
+    {
+        "mac_address": "17:4f:c3:00:0b:00",
+        "count": 14
+    },
+    {
+        "mac_address": "17:8e:c3:00:01:00",
+        "count": 7
+    },
+    {
+        "mac_address": "17:cf:c3:00:01:00",
+        "count": 7
+    },
+    {
+        "mac_address": "17:cf:c3:00:0b:00",
+        "count": 8
+    },
+    {
+        "mac_address": "18:0e:c3:00:01:00",
+        "count": 13
+    },
+    {
+        "mac_address": "18:0e:c3:00:09:00",
+        "count": 7
+    },
+    {
+        "mac_address": "18:4f:c3:00:01:00",
+        "count": 7
+    },
+    {
+        "mac_address": "18:56:80:e1:18:d8",
+        "count": 19
+    },
+    {
+        "mac_address": "18:74:2e:2c:d8:22",
+        "count": 6
+    },
+    {
+        "mac_address": "18:8e:c3:00:01:00",
+        "count": 13
+    },
+    {
+        "mac_address": "1a:8e:c3:00:01:00",
+        "count": 7
+    },
+    {
+        "mac_address": "1c:1a:df:66:79:8a",
+        "count": 8
+    },
+    {
+        "mac_address": "1c:cf:c3:00:01:00",
+        "count": 7
+    },
+    {
+        "mac_address": "1c:f2:9a:72:6b:12",
+        "count": 7
+    },
+    {
+        "mac_address": "1d:8e:c3:00:01:00",
+        "count": 8
+    },
+    {
+        "mac_address": "1e:8e:c3:00:01:00",
+        "count": 7
+    },
+    {
+        "mac_address": "20:4e:7f:ab:2e:be",
+        "count": 15
+    },
+    {
+        "mac_address": "20:79:18:c3:83:a9",
+        "count": 11
+    },
+    {
+        "mac_address": "20:df:b9:d3:96:d8",
+        "count": 15
+    },
+    {
+        "mac_address": "22:4f:c3:00:0b:00",
+        "count": 6
+    },
+    {
+        "mac_address": "22:cf:c3:00:01:00",
+        "count": 7
+    },
+    {
+        "mac_address": "24:0e:c3:00:01:00",
+        "count": 8
+    },
+    {
+        "mac_address": "24:8e:c3:00:01:00",
+        "count": 13
+    },
+    {
+        "mac_address": "28:16:a8:4c:9e:32",
+        "count": 11
+    },
+    {
+        "mac_address": "28:cf:c3:00:0b:00",
+        "count": 6
+    },
+    {
+        "mac_address": "2a:8e:c3:00:01:00",
+        "count": 6
+    },
+    {
+        "mac_address": "2e:42:19:9b:64:f8",
+        "count": 23
+    },
+    {
+        "mac_address": "2e:cf:c3:00:0b:00",
+        "count": 6
+    },
+    {
+        "mac_address": "2f:8e:c3:00:01:00",
+        "count": 6
+    },
+    {
+        "mac_address": "30:07:4d:b1:2d:20",
+        "count": 13
+    },
+    {
+        "mac_address": "30:07:4d:c5:b7:22",
+        "count": 10
+    },
+    {
+        "mac_address": "30:0e:c3:00:09:00",
+        "count": 6
+    },
+    {
+        "mac_address": "30:10:b3:31:a9:25",
+        "count": 7
+    },
+    {
+        "mac_address": "30:59:b7:d8:1a:ca",
+        "count": 7
+    },
+    {
+        "mac_address": "30:8e:c3:00:01:00",
+        "count": 10
+    },
+    {
+        "mac_address": "30:c3:d9:24:44:08",
+        "count": 8
+    },
+    {
+        "mac_address": "30:fd:38:90:ec:c0",
+        "count": 11
+    },
+    {
+        "mac_address": "32:2a:fb:06:8b:70",
+        "count": 39
+    },
+    {
+        "mac_address": "32:99:b7:54:b5:5a",
+        "count": 8
+    },
+    {
+        "mac_address": "34:cf:c3:00:0b:00",
+        "count": 8
+    },
+    {
+        "mac_address": "34:f1:50:7d:7b:10",
+        "count": 6
+    },
+    {
+        "mac_address": "36:8e:c3:00:01:00",
+        "count": 7
+    },
+    {
+        "mac_address": "38:01:95:a1:8d:af",
+        "count": 9
+    },
+    {
+        "mac_address": "38:53:9c:02:a5:8e",
+        "count": 30
+    },
+    {
+        "mac_address": "38:f9:d3:6c:15:98",
+        "count": 10
+    },
+    {
+        "mac_address": "38:f9:d3:72:5d:e1",
+        "count": 24
+    },
+    {
+        "mac_address": "38:f9:d3:e1:f6:a6",
+        "count": 6
+    },
+    {
+        "mac_address": "3c:9b:d6:9e:15:e1",
+        "count": 12
+    },
+    {
+        "mac_address": "3e:34:8f:02:7f:e4",
+        "count": 8
+    },
+    {
+        "mac_address": "40:b3:95:a6:c8:1b",
+        "count": 14
+    },
+    {
+        "mac_address": "42:63:db:00:ce:83",
+        "count": 12
+    },
+    {
+        "mac_address": "44:91:60:ef:a5:cf",
+        "count": 28
+    },
+    {
+        "mac_address": "46:04:3c:ef:44:ee",
+        "count": 6
+    },
+    {
+        "mac_address": "48:5f:99:6f:35:dd",
+        "count": 9
+    },
+    {
+        "mac_address": "48:a6:b8:43:84:8a",
+        "count": 42
+    },
+    {
+        "mac_address": "48:a6:b8:43:84:8b",
+        "count": 14
+    },
+    {
+        "mac_address": "48:c7:96:b4:ec:49",
+        "count": 21
+    },
+    {
+        "mac_address": "48:d6:d5:61:2b:fb",
+        "count": 9
+    },
+    {
+        "mac_address": "49:0e:c3:00:01:00",
+        "count": 7
+    },
+    {
+        "mac_address": "49:8e:c3:00:01:00",
+        "count": 8
+    },
+    {
+        "mac_address": "4b:4f:c3:00:0b:00",
+        "count": 7
+    },
+    {
+        "mac_address": "4e:6f:fb:66:93:d6",
+        "count": 29
+    },
+    {
+        "mac_address": "50:3e:aa:21:25:61",
+        "count": 13
+    },
+    {
+        "mac_address": "54:13:79:c6:7d:25",
+        "count": 14
+    },
+    {
+        "mac_address": "54:65:de:69:c8:10",
+        "count": 12
+    },
+    {
+        "mac_address": "56:32:52:c7:7a:c1",
+        "count": 8
+    },
+    {
+        "mac_address": "5a:90:63:91:42:1a",
+        "count": 23
+    },
+    {
+        "mac_address": "5c:ea:1d:89:05:93",
+        "count": 6
+    },
+    {
+        "mac_address": "61:8e:c3:00:01:00",
+        "count": 6
+    },
+    {
+        "mac_address": "62:45:b4:f4:e0:96",
+        "count": 52
+    },
+    {
+        "mac_address": "62:45:b6:79:3b:f7",
+        "count": 47
+    },
+    {
+        "mac_address": "62:45:b6:f3:5d:c9",
+        "count": 9
+    },
+    {
+        "mac_address": "62:fe:f7:bf:e7:91",
+        "count": 6
+    },
+    {
+        "mac_address": "64:5d:86:7f:d3:5c",
+        "count": 11
+    },
+    {
+        "mac_address": "64:c2:de:74:9e:2f",
+        "count": 12
+    },
+    {
+        "mac_address": "66:62:a4:f3:69:47",
+        "count": 27
+    },
+    {
+        "mac_address": "68:72:51:82:dd:1c",
+        "count": 25
+    },
+    {
+        "mac_address": "68:9c:70:79:c8:0b",
+        "count": 6
+    },
+    {
+        "mac_address": "6a:0e:c3:00:01:00",
+        "count": 6
+    },
+    {
+        "mac_address": "6a:74:2d:3a:be:9b",
+        "count": 6
+    },
+    {
+        "mac_address": "6b:0e:c3:00:01:00",
+        "count": 6
+    },
+    {
+        "mac_address": "6c:94:f8:dc:c6:fd",
+        "count": 14
+    },
+    {
+        "mac_address": "6d:0e:c3:00:01:00",
+        "count": 13
+    },
+    {
+        "mac_address": "6d:0e:c3:00:09:00",
+        "count": 8
+    },
+    {
+        "mac_address": "6d:8e:c3:00:01:00",
+        "count": 13
+    },
+    {
+        "mac_address": "6e:46:ff:aa:39:46",
+        "count": 16
+    },
+    {
+        "mac_address": "6e:fb:36:3f:0b:6a",
+        "count": 19
+    },
+    {
+        "mac_address": "70:bc:10:7b:ed:ea",
+        "count": 32
+    },
+    {
+        "mac_address": "74:40:bb:ab:00:8f",
+        "count": 24
+    },
+    {
+        "mac_address": "74:58:f3:a3:30:70",
+        "count": 14
+    },
+    {
+        "mac_address": "75:0e:c3:00:01:00",
+        "count": 8
+    },
+    {
+        "mac_address": "76:a3:26:5f:58:89",
+        "count": 7
+    },
+    {
+        "mac_address": "78:d2:94:b1:a7:72",
+        "count": 20
+    },
+    {
+        "mac_address": "7a:8e:c3:00:01:00",
+        "count": 8
+    },
+    {
+        "mac_address": "7a:c8:f6:57:d9:0c",
+        "count": 10
+    },
+    {
+        "mac_address": "7d:0e:c3:00:01:00",
+        "count": 7
+    },
+    {
+        "mac_address": "7d:8e:c3:00:01:00",
+        "count": 7
+    },
+    {
+        "mac_address": "7e:0e:c3:00:01:00",
+        "count": 6
+    },
+    {
+        "mac_address": "7e:31:dd:1c:37:7f",
+        "count": 15
+    },
+    {
+        "mac_address": "7e:8e:c3:00:01:00",
+        "count": 7
+    },
+    {
+        "mac_address": "7f:0e:c3:00:01:00",
+        "count": 11
+    },
+    {
+        "mac_address": "7f:0e:c3:00:09:00",
+        "count": 8
+    },
+    {
+        "mac_address": "7f:8e:c3:00:01:00",
+        "count": 13
+    },
+    {
+        "mac_address": "7f:cf:c3:00:0b:00",
+        "count": 7
+    },
+    {
+        "mac_address": "80:2b:f9:5e:03:63",
+        "count": 6
+    },
+    {
+        "mac_address": "80:32:53:49:e3:82",
+        "count": 10
+    },
+    {
+        "mac_address": "8a:53:18:c8:80:dd",
+        "count": 18
+    },
+    {
+        "mac_address": "8a:97:12:50:7f:34",
+        "count": 6
+    },
+    {
+        "mac_address": "8a:cf:00:00:0b:00",
+        "count": 6
+    },
+    {
+        "mac_address": "8c:45:00:13:48:8b",
+        "count": 7
+    },
+    {
+        "mac_address": "8c:85:90:5f:5a:da",
+        "count": 21
+    },
+    {
+        "mac_address": "8c:85:90:c3:be:d6",
+        "count": 21
+    },
+    {
+        "mac_address": "8e:16:42:7a:55:02",
+        "count": 6
+    },
+    {
+        "mac_address": "96:33:14:89:e1:97",
+        "count": 7
+    },
+    {
+        "mac_address": "96:4f:c3:00:0b:00",
+        "count": 12
+    },
+    {
+        "mac_address": "9a:d3:57:df:f0:d4",
+        "count": 7
+    },
+    {
+        "mac_address": "9a:d8:2d:87:47:b9",
+        "count": 6
+    },
+    {
+        "mac_address": "9a:ef:e0:0b:25:41",
+        "count": 6
+    },
+    {
+        "mac_address": "9c:3d:cf:00:94:1f",
+        "count": 7
+    },
+    {
+        "mac_address": "9c:3d:cf:50:e9:86",
+        "count": 25
+    },
+    {
+        "mac_address": "9c:5a:44:bd:0d:29",
+        "count": 18
+    },
+    {
+        "mac_address": "9c:5c:8e:b5:e4:9d",
+        "count": 9
+    },
+    {
+        "mac_address": "9c:8d:7c:b1:59:10",
+        "count": 6
+    },
+    {
+        "mac_address": "9c:a6:d0:1f:a6:87",
+        "count": 6
+    },
+    {
+        "mac_address": "9c:b2:d0:1f:a6:87",
+        "count": 9
+    },
+    {
+        "mac_address": "9c:b4:d0:1f:a6:87",
+        "count": 7
+    },
+    {
+        "mac_address": "9c:b6:50:1f:a6:87",
+        "count": 7
+    },
+    {
+        "mac_address": "9c:b6:90:1f:a6:87",
+        "count": 7
+    },
+    {
+        "mac_address": "9c:b6:d0:1d:a6:87",
+        "count": 6
+    },
+    {
+        "mac_address": "9c:b6:d0:1e:a6:87",
+        "count": 7
+    },
+    {
+        "mac_address": "9c:b6:d0:1f:26:87",
+        "count": 7
+    },
+    {
+        "mac_address": "9c:b6:d0:1f:a4:87",
+        "count": 8
+    },
+    {
+        "mac_address": "9c:b6:d0:1f:a6:07",
+        "count": 6
+    },
+    {
+        "mac_address": "9c:b6:d0:1f:a6:83",
+        "count": 6
+    },
+    {
+        "mac_address": "9c:b6:d0:1f:a6:85",
+        "count": 7
+    },
+    {
+        "mac_address": "9c:b6:d0:1f:a6:87",
+        "count": 25
+    },
+    {
+        "mac_address": "9c:b6:d0:1f:a6:8f",
+        "count": 7
+    },
+    {
+        "mac_address": "9c:b6:d0:1f:a6:97",
+        "count": 7
+    },
+    {
+        "mac_address": "9c:b6:d0:1f:a6:a7",
+        "count": 7
+    },
+    {
+        "mac_address": "9c:b6:d0:1f:a6:c7",
+        "count": 7
+    },
+    {
+        "mac_address": "9c:b6:d0:1f:a7:87",
+        "count": 6
+    },
+    {
+        "mac_address": "9c:b6:d0:1f:ae:87",
+        "count": 6
+    },
+    {
+        "mac_address": "9c:b6:d0:1f:b6:87",
+        "count": 6
+    },
+    {
+        "mac_address": "9c:b6:d0:1f:e6:87",
+        "count": 6
+    },
+    {
+        "mac_address": "9c:b6:d0:3f:a6:87",
+        "count": 6
+    },
+    {
+        "mac_address": "9c:b6:d0:9f:a6:87",
+        "count": 6
+    },
+    {
+        "mac_address": "9c:b6:d0:b0:02:e5",
+        "count": 8
+    },
+    {
+        "mac_address": "9c:b6:d0:f7:78:85",
+        "count": 13
+    },
+    {
+        "mac_address": "9c:b6:d1:1f:a6:87",
+        "count": 7
+    },
+    {
+        "mac_address": "9c:b6:d4:1f:a6:87",
+        "count": 6
+    },
+    {
+        "mac_address": "9c:b6:f0:1f:a6:87",
+        "count": 6
+    },
+    {
+        "mac_address": "9c:b7:d0:1f:a6:87",
+        "count": 8
+    },
+    {
+        "mac_address": "9c:be:d0:1f:a6:87",
+        "count": 9
+    },
+    {
+        "mac_address": "9c:f6:d0:1f:a6:87",
+        "count": 7
+    },
+    {
+        "mac_address": "a0:6a:44:f3:f8:5c",
+        "count": 9
+    },
+    {
+        "mac_address": "a0:cc:2b:92:f9:33",
+        "count": 7
+    },
+    {
+        "mac_address": "a2:11:66:29:85:8a",
+        "count": 6
+    },
+    {
+        "mac_address": "a2:6c:49:46:4e:23",
+        "count": 6
+    },
+    {
+        "mac_address": "a4:08:ea:2c:69:21",
+        "count": 7
+    },
+    {
+        "mac_address": "a4:5c:27:b4:f7:04",
+        "count": 11
+    },
+    {
+        "mac_address": "a4:77:33:f4:1d:40",
+        "count": 47
+    },
+    {
+        "mac_address": "a4:83:e7:73:cc:e8",
+        "count": 27
+    },
+    {
+        "mac_address": "a4:c4:94:0a:47:db",
+        "count": 8
+    },
+    {
+        "mac_address": "a8:34:6a:6b:92:92",
+        "count": 35
+    },
+    {
+        "mac_address": "a8:34:6a:6c:52:b4",
+        "count": 23
+    },
+    {
+        "mac_address": "aa:3a:99:e6:68:fa",
+        "count": 19
+    },
+    {
+        "mac_address": "b0:5c:da:be:e3:9b",
+        "count": 22
+    },
+    {
+        "mac_address": "b0:72:bf:d9:08:5c",
+        "count": 7
+    },
+    {
+        "mac_address": "b2:44:08:4d:02:b8",
+        "count": 9
+    },
+    {
+        "mac_address": "b4:4b:d2:f1:b7:33",
+        "count": 7
+    },
+    {
+        "mac_address": "b6:9d:9d:6f:f2:44",
+        "count": 11
+    },
+    {
+        "mac_address": "b8:31:b5:4c:1c:03",
+        "count": 19
+    },
+    {
+        "mac_address": "b8:3a:5a:49:75:c0",
+        "count": 27
+    },
+    {
+        "mac_address": "b8:3a:5a:49:75:c2",
+        "count": 10
+    },
+    {
+        "mac_address": "b8:3a:5a:49:76:c0",
+        "count": 37
+    },
+    {
+        "mac_address": "b8:3a:5a:49:76:c2",
+        "count": 18
+    },
+    {
+        "mac_address": "b8:3a:5a:49:7b:a0",
+        "count": 13
+    },
+    {
+        "mac_address": "b8:3a:5a:49:f9:20",
+        "count": 30
+    },
+    {
+        "mac_address": "b8:3a:5a:49:f9:22",
+        "count": 51
+    },
+    {
+        "mac_address": "b8:3a:5a:49:fc:60",
+        "count": 18
+    },
+    {
+        "mac_address": "b8:3a:5a:49:fc:62",
+        "count": 7
+    },
+    {
+        "mac_address": "b8:3a:5a:49:fd:00",
+        "count": 21
+    },
+    {
+        "mac_address": "b8:3a:5a:49:fd:02",
+        "count": 16
+    },
+    {
+        "mac_address": "b8:3a:5a:49:fe:a0",
+        "count": 20
+    },
+    {
+        "mac_address": "b8:3a:5a:49:fe:a2",
+        "count": 22
+    },
+    {
+        "mac_address": "b8:3a:5a:4a:40:80",
+        "count": 10
+    },
+    {
+        "mac_address": "b8:3a:5a:4a:43:40",
+        "count": 53
+    },
+    {
+        "mac_address": "b8:3a:5a:4a:43:42",
+        "count": 27
+    },
+    {
+        "mac_address": "b8:3a:5a:4a:43:e0",
+        "count": 14
+    },
+    {
+        "mac_address": "b8:3a:5a:4a:4d:80",
+        "count": 42
+    },
+    {
+        "mac_address": "b8:3a:5a:4a:4d:82",
+        "count": 9
+    },
+    {
+        "mac_address": "b8:3a:5a:4a:51:80",
+        "count": 35
+    },
+    {
+        "mac_address": "b8:3a:5a:4a:52:c0",
+        "count": 18
+    },
+    {
+        "mac_address": "b8:3a:5a:4a:52:c2",
+        "count": 17
+    },
+    {
+        "mac_address": "b8:3a:5a:4a:53:c0",
+        "count": 42
+    },
+    {
+        "mac_address": "b8:3a:5a:4a:53:c2",
+        "count": 12
+    },
+    {
+        "mac_address": "b8:3a:5a:4a:54:80",
+        "count": 31
+    },
+    {
+        "mac_address": "b9:4f:c3:00:0b:00",
+        "count": 6
+    },
+    {
+        "mac_address": "ba:b7:e2:eb:a2:0d",
+        "count": 11
+    },
+    {
+        "mac_address": "bc:a5:8b:35:47:ce",
+        "count": 12
+    },
+    {
+        "mac_address": "bc:b6:d0:1f:a6:87",
+        "count": 6
+    },
+    {
+        "mac_address": "be:0b:fe:af:bd:bb",
+        "count": 12
+    },
+    {
+        "mac_address": "be:34:57:49:6c:c9",
+        "count": 9
+    },
+    {
+        "mac_address": "c0:b5:d7:69:e7:e1",
+        "count": 9
+    },
+    {
+        "mac_address": "c0:b8:83:e9:ac:be",
+        "count": 8
+    },
+    {
+        "mac_address": "c0:ce:cd:1a:4f:ca",
+        "count": 8
+    },
+    {
+        "mac_address": "c4:9d:ed:15:2a:e7",
+        "count": 10
+    },
+    {
+        "mac_address": "c8:d0:83:98:18:46",
+        "count": 14
+    },
+    {
+        "mac_address": "c8:ff:28:e8:87:d9",
+        "count": 24
+    },
+    {
+        "mac_address": "cc:2d:b7:dd:da:bc",
+        "count": 7
+    },
+    {
+        "mac_address": "cc:32:e5:4a:ff:2a",
+        "count": 25
+    },
+    {
+        "mac_address": "cc:c0:79:48:b5:83",
+        "count": 8
+    },
+    {
+        "mac_address": "ce:ef:f0:c1:d9:cf",
+        "count": 6
+    },
+    {
+        "mac_address": "d0:a6:37:e7:31:60",
+        "count": 16
+    },
+    {
+        "mac_address": "d4:53:83:a2:a4:6f",
+        "count": 6
+    },
+    {
+        "mac_address": "d4:61:9d:05:ae:7c",
+        "count": 9
+    },
+    {
+        "mac_address": "d6:91:a0:0c:9e:c4",
+        "count": 21
+    },
+    {
+        "mac_address": "d8:0d:17:ae:23:d0",
+        "count": 26
+    },
+    {
+        "mac_address": "d8:13:99:57:6a:8b",
+        "count": 22
+    },
+    {
+        "mac_address": "d8:13:99:57:9e:bd",
+        "count": 6
+    },
+    {
+        "mac_address": "d8:31:34:41:83:9e",
+        "count": 20
+    },
+    {
+        "mac_address": "d8:31:34:a1:f2:43",
+        "count": 30
+    },
+    {
+        "mac_address": "d8:6c:63:41:91:cd",
+        "count": 10
+    },
+    {
+        "mac_address": "da:28:f8:d3:63:fe",
+        "count": 7
+    },
+    {
+        "mac_address": "da:31:34:d0:9c:9a",
+        "count": 8
+    },
+    {
+        "mac_address": "dc:ef:ca:6e:e1:ec",
+        "count": 14
+    },
+    {
+        "mac_address": "dc:ef:ca:83:65:45",
+        "count": 19
+    },
+    {
+        "mac_address": "dc:ef:ca:de:f0:af",
+        "count": 6
+    },
+    {
+        "mac_address": "e0:b5:2d:d3:34:aa",
+        "count": 9
+    },
+    {
+        "mac_address": "e4:f0:42:2c:28:9e",
+        "count": 22
+    },
+    {
+        "mac_address": "e4:f0:42:35:76:e4",
+        "count": 11
+    },
+    {
+        "mac_address": "ea:d1:22:bd:d7:92",
+        "count": 8
+    },
+    {
+        "mac_address": "ec:c4:0d:40:a8:29",
+        "count": 30
+    },
+    {
+        "mac_address": "ee:99:26:9a:33:95",
+        "count": 22
+    },
+    {
+        "mac_address": "f0:18:98:21:6b:6c",
+        "count": 6
+    },
+    {
+        "mac_address": "f0:db:e2:47:0c:87",
+        "count": 12
+    },
+    {
+        "mac_address": "f2:e7:d3:73:43:b1",
+        "count": 7
+    },
+    {
+        "mac_address": "f4:8c:50:ff:c2:83",
+        "count": 9
+    },
+    {
+        "mac_address": "f6:60:bf:f9:ce:a4",
+        "count": 16
+    },
+    {
+        "mac_address": "f8:59:71:5b:18:28",
+        "count": 34
+    },
+    {
+        "mac_address": "f8:87:f1:af:ba:6f",
+        "count": 35
+    },
+    {
+        "mac_address": "fc:18:3c:ce:a9:c9",
+        "count": 15
+    },
+    {
+        "mac_address": "fc:a6:21:e2:2b:43",
+        "count": 8
+    },
+    {
+        "mac_address": "fe:fc:b6:0e:89:69",
+        "count": 30
+    },
+    {
+        "mac_address": "ff:cf:c3:00:0b:00",
+        "count": 6
+    }
+]
